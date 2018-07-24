@@ -21,7 +21,7 @@ upgrade
 
 `yum upgrade` 会删除过时的包；而 `yum update` 默认不会删除过时的包，除非加上 `--obsoletes` 参数，作用就和 `yum upgrade` 一样了。
 
-二|参考
+## 二|参考
 
 - man yum
 - [In CentOS, what is the difference between yum update and yum upgrade?](https://unix.stackexchange.com/questions/55777/in-centos-what-is-the-difference-between-yum-update-and-yum-upgrade)
