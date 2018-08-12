@@ -83,3 +83,7 @@ public class MyConfiguration extends WebMvcConfigurationSupport {
 ```
 
 一般 `WebMvcConfigurationSupport` 已提供的配置，已经满足了我们大部分的需求，优先使用方式一。
+
+## MORE
+
+- [SpringBoot Mvc 自动配置](../SpringBoot/spring-boot-mvc-autoconfigure.md)
